@@ -1,0 +1,1 @@
+This is netflix home page while creating used HTML for the structure and CSS for styling.This is the static web page.Downloaded logo and banner from google and used HTML for the arrangement of elements and used CSS for styling the HTML elements.
